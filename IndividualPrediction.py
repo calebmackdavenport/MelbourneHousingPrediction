@@ -8,13 +8,13 @@ model = joblib.load('house_trained_model.pkl')
 
 property_to_value = [
 	1, #Rooms
-    20, #Distance
-    3, #Bedroom2
-    1, #Bathroom
-    0, #Car
-    534, #Landsize
-    220, #BuildingArea
-    1950, #YearBuilt
+    	20, #Distance
+	3, #Bedroom2
+    	1, #Bathroom
+    	0, #Car
+    	534, #Landsize
+    	220, #BuildingArea
+    	1950, #YearBuilt
 	0, #Suburb_Abbotsford
 	0, #Suburb_Aberfeldie
 	0, #Suburb_Airport West
