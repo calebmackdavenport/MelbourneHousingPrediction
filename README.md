@@ -1,4 +1,4 @@
-# MelbourneHousingPrediction
+# Melbourne Housing Prediction Project
 **Python v3.6 (not compatible with 2.7)**
 
 1. Download the CSV file from kaggle [here](https://www.kaggle.com/anthonypino/melbourne-housing-market?)
