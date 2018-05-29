@@ -11,3 +11,5 @@
 
 5. The ModelTesting.py dumps a pkl file after being run which is used by InidividualPrediction.py to determine potential based on given input. Any modifications to ModelTesting will result in a different evaluation when running IndividualPrediction. Parameters are already entered, but can be changed to test new data points.
 *Sample address used: 8 Keeshan Ct, Altona VIC 3018, Australia*
+
+6. **Optional** *Takes significantly longer to run* - GridTesting.py is an algorithmic adjustment that takes a set of potential parameters for each hyperparameter and attempts to take the most optimal combination of the potential options you've set before it. In testing, it takes much longer as it has to evaluate each option before deciding on the most optimal combination outcome. Suggestion: Set a low, medium, and high option for each hyperparameter.
