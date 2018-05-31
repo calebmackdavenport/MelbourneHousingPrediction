@@ -1,6 +1,11 @@
 # Melbourne Housing Prediction Project
 **Python v3.6 (not compatible with 2.7)**
 
+**Setup**
+- Download [Python](https://www.python.org/downloads/) to run the code.
+- Download [Anaconda](https://www.anaconda.com/download/) for environment management.
+- Download [VSCode](https://code.visualstudio.com/download) or a text editor of your choice.
+
 1. Download the CSV file from kaggle [here](https://www.kaggle.com/anthonypino/melbourne-housing-market?)
 
 2. Follow instructions and definitions in commented code
